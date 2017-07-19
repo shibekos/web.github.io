@@ -435,9 +435,7 @@ h3 {
     background: #F2F2F2;
 }
 .best-posts {
-    width: 960px;
-    margin: 0 auto;
-    background: #F2F2F2;
+    background-color: #F2F2F2;
 }
 .widget-title {
     font: 900 31px/1 "Proxima Nova", sans-serif;
