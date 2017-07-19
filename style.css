@@ -40,18 +40,8 @@ body {
     width: 100%;
     background: #F2F2F2;
 }
-.header {
-    width: 960px;
-    margin: 0 auto;
-    background: #fff;
-}
 .site-topics li:hover a {
     color: blue;
-}
-.content {
-    width: 960px;
-    margin: 0 auto;
-    background: #fff;
 }
 .img-wrapper {
     width: 960px;
@@ -195,10 +185,6 @@ button {
 }
 .nevis { /*контейнер новостей */
     
-}
-.container {
-    display: inline-block;
-    position: relative;
 }
 .image {
     width: 50px;
