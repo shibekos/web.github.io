@@ -428,10 +428,12 @@ h3 {
     background-color: #F2F2F2;
 }
 .widget-title {
-    font: 900 31px/1 "Proxima Nova", sans-serif;
     margin-bottom: 43px;
-    padding-top: 40px;
+    padding: 25px 30px;
+    font: 900 31px/1 "Proxima Nova", sans-serif;
     text-align: center;
+    text-transform: uppercase;
+    background-color: #F2F2F2;
 }
 .footer .row:first-child {
     padding-top: 20px;
